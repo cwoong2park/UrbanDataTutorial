@@ -1,0 +1,92 @@
+Station,City,Location,Latitude,Longitude,Altitude (m)
+90,Sokcho,Gangwon,38.25085,128.56473,17.53
+95,  Cheorwon,Gangwon,38.14787,127.3042,155.48
+98,  Dongducheon,Gyeonggi-do,37.90188,127.0607,115.62
+99,  Paju,Gyeonggi,37.88589,126.76648,30.59
+100,  Daegwallyeong,Gangwon,37.67713,128.71834,772.43
+101,  ChunCheon,Gangwon,37.90262,127.7357,75.82
+102,  Baengnyeongdo,Incheon,37.97396,124.71237,36
+104,  Bukgangneung,Gangwon,37.80456,128.85535,75.24
+105,  Gangneung,Gangwon,37.75147,128.89099,27.12
+106,  East Sea,Gangwon,37.50709,129.12433,40.46
+108,  Seoul,  Seoul,37.57142,126.9658,85.67
+112,  Incheon,Incheon,37.47772,126.6249,68.99
+114,  Wonju,Gangwon,37.33749,127.94659,150.11
+115,  Ulleungdo,Gyeongbuk,37.48129,130.89864,221.14
+119,  Suwon,Gyeonggi,37.25746,126.983,39.81
+121,  Yeongwol,Gangwon,37.18126,128.45743,240.54
+127,  Chungju,Chungbuk,36.97045,127.9525,114.85
+129,  Seosan,Chungbuk,36.77658,126.4939,25.25
+130,  Uljin,Gyeongbuk,36.99176,129.41278,48.98
+131,Cheongju,Chungbuk,36.63924,127.44066,58.7
+133,  Daejeon,  Daejeon,36.37198,127.37211,70.22
+135,  ChuPungryeong,Chungbuk,36.22025,127.99458,244.98
+136,  Andong,Gyeongbuk,36.57293,128.70734,141.26
+137,Sangju,Gyeongbuk,36.40837,128.15741,96.58
+138,  Pohang,Gyeongbuk,36.03201,129.38002,3.94
+140,  Gunsan,Jeonbuk,36.0053,126.76135,27.85
+143,  Daegu,  Daegu,35.87797,128.65295,54.27
+146,  Jeonju,Jeonbuk,35.84092,127.11718,60.44
+152,  Ulsan,  Ulsan,35.58237,129.33469,81.14
+155,  Changwon,Gyeongnam,35.17019,128.57281,34.97
+156,  Gwangju,  Gwangju,35.17294,126.89156,70.28
+159,  Busan,  Busan,35.10468,129.03203,69.56
+162,  Tongyeong,Gyeongnam,34.84541,128.43561,31.24
+165,  Mokpo,Jeonnam,34.81732,126.38151,44.7
+168,  Yeosu,Jeonnam,34.73929,127.74063,65.93
+169,  Heuksan Island,Jeonnam,34.68719,125.45105,75.12
+170,  Wando,Jeonnam,34.3959,126.70182,35.37
+172,Gochang,Jeonbuk,35.34824,126.599,52.42
+174,  Suncheon,Jeonnam,35.0204,127.3694,165
+184,  Jeju,Jeju,33.51411,126.52969,20.79
+185,Gosan,Jeju,33.29382,126.16283,71.39
+188,  Seongsan,Jeju,33.38677,126.8802,20.34
+189,  Seogwipo,Jeju,33.24616,126.5653,51.86
+192,Jinju,Gyeongnam,35.16378,128.04004,29.35
+201,Ganghwa,Incheon,37.70739,126.44634,47.84
+202,  Yangpyeong,Gyeonggi,37.48863,127.49446,47.26
+203,  Icheon,Gyeonggi,37.26399,127.48421,80.09
+211,  Inje,Gangwon,38.05986,128.16714,201.78
+212,  Hongcheon,Gangwon,37.6836,127.88043,140.2
+216,  Taebaek,Gangwon,37.17038,128.98929,714.45
+217,  Jeongseon,Gangwon,37.38149,128.6459,307.58
+221,  Jecheon,Chungbuk,37.15928,128.19434,264.62
+226,  Boeun,Chungbuk,36.48761,127.73415,171.31
+232,  Cheonan,Chungnam,36.76217,127.29282,84.78
+235,  Boryeong,Chungnam,36.32724,126.55744,9.98
+236,Buyeo,Chungnam,36.27242,126.92079,13.42
+238,  Geumsan,Chungnam,36.10563,127.48175,172.69
+243,  Buan,Jeonbuk,35.72961,126.71657,12.2
+244,  Imsil,Jeonbuk,35.61203,127.28556,247.04
+245,  Jeongeup,Jeonbuk,35.56337,126.83904,68.7
+247,  Namwon,Jeonbuk,35.4213,127.39652,133.49
+248,Jangsu,Jeonbuk,35.65696,127.52031,406.87
+251,  Gochang,Jeonbuk,35.42661,126.697,58.84
+252,Yeonggwang,Jeonnam,35.28366,126.47784,37.2
+253,  Gimhae,Gyeongnam,35.22981,128.89075,54.59
+254,  Sunchang,Jeonbuk,35.37131,127.1286,129.38
+255,  Bukchangwon,Gyeongnam,35.22655,128.6726,50.95
+257,  Yangsan,Gyeongnam,35.30737,129.0201,6.29
+258,  Boseong,Jeonnam,34.76335,127.21226,1.41
+260,  Jangheung,Jeonnam,34.68886,126.91951,43.99
+261,  Haenam,Jeonnam,34.55375,126.56907,16.36
+262,  Goheung,Jeonnam,34.61826,127.27572,51.91
+263,  Uiryeong,Gyeongnam,35.32258,128.28812,14.1
+264,  Hamyang,Gyeongnam,35.51138,127.74538,152.07
+266,  Gwangyang,Jeonnam,34.9434,127.6914,88.21
+268,  Jindo,Jeonnam,34.47296,126.25846,9.82
+271,Bonghwa,Gyeongbuk,36.94361,128.91449,324.67
+272,Yeongju,Gyeongbuk,36.87183,128.51688,211.32
+273,  Mungyeong,Gyeongbuk,36.62727,128.14879,173.01
+276,  Cheongsong,Gyeongbuk,36.4351,129.04005,208.65
+277,  Yeongdeok,Gyeongbuk,36.53337,129.40926,40.71
+278,Uiseong,Gyeongbuk,36.3561,128.68864,81.44
+279,  Gumi,Gyeongbuk,36.13055,128.32056,49.17
+281,  Yeongcheon,Gyeongbuk,35.97742,128.9514,96.12
+283,  Gyeongju,Gyeongbuk,35.8174,129.2009,40.13
+284,  Geochang,Gyeongnam,35.66739,127.9099,228.45
+285,  Hapcheon,Gyeongnam,35.56505,128.16994,26.72
+288,  Miryang,Gyeongnam,35.49147,128.74413,8.31
+289,  Sancheong,Gyeongnam,35.413,127.8791,138.22
+294,  Geoje,Gyeongnam,34.88818,128.60458,44.83
+295,  Namhae,Gyeongnam,34.81662,127.92641,45.71
