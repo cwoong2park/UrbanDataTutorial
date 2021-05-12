@@ -1,0 +1,13 @@
+Description: Wind or earthquake easily breaks a static equilibrium of the structure, and then it shakes at its natural frequency. Its vibration to a horizontal direction was measured using an accelerometer. 
+1. Time
+2. Vibration on the 1st floor
+3. Vibration on the 2nd floor
+4. Vibration on the 3rd floor
+5. Vibration on the 4th floor
+6. Vibration on the 5th floor
+
+Source: Lee H-J, Jung H-J, Moon S-J, Lee S-K, Park E-C, Min K-W. Experimental Investigation of MR Damper-based Semiactive Control Algorithms for Full-scale Five-story Steel Frame Building. Journal of Intelligent Material Systems and Structures. 2010;21(10):1025-1037. doi:10.1177/1045389X10374162
+
+Data entry: Hyung Jo Jeong, KAIST, Mar 1, 2021
+
+Labels: time-serise; Fourier transform; signal processing
