@@ -1,0 +1,21 @@
+This hourly data set contains the PM2.5 data of US Embassy in Beijing. Meanwhile, meteorological data from Beijing Capital International Airport are also included.
+
+1. No: row number
+2. year: year of data in this row
+3. month: month of data in this row
+4. day: day of data in this row
+5. hour: hour of data in this row
+6. pm2.5: PM2.5 concentration (ug/m^3)
+7. DEWP: Dew Point (â„ƒ)
+8. TEMP: Temperature (â„ƒ)
+9. PRES: Pressure (hPa)
+10. cbwd: Combined wind direction
+11. lws: Cumulated wind speed (m/s)
+12. Is: Cumulated hours of snow
+13. Ir: Cumulated hours of rain
+
+Source: Liang, X., Zou, T., Guo, B., Li, S., Zhang, H., Zhang, S., Huang, H. and Chen, S. X. (2015). Assessing Beijing's PM2.5 pollution: severity, weather impact, APEC and winter heating. Proceedings of the Royal Society A, 471, 20150257.
+
+Data entry: UCI Machine Learning Repository, http://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data
+
+Labels: time series
